@@ -19,6 +19,7 @@ namespace EfBatchDemo
             //BatchUpdate();
             //BatchUpdateQuery();
             //BatchDelete();
+            //Test111
             Console.ReadKey();
         }
 
